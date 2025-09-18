@@ -1,0 +1,5 @@
+a) 2
+b) because to find the unsorted data the 
+   bubble sort has to traverse potentialy 
+   thousands of indexes where a more advanced 
+   algorithm could just go to it straight away.

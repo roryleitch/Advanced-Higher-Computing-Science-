@@ -1,0 +1,5 @@
+["pear", "apple", "orange", "banana"]
+["apple", "pear", "orange", "banana"]
+["apple", "orange", "pear", "banana"]
+["apple", "orange", "banana", "pear"]
+["apple", "banana", "orange", "pear"]
